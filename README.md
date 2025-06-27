@@ -1,5 +1,4 @@
-# EV_charging
-A design for an EV car charging station.
+# A design for an EV car charging station.
 
 Designing VHDL logic for a battery charging station for an electric automobile involves several components and functionalities. Below is a conceptual outline of how you might approach this design, along with some example VHDL code snippets.
 
